@@ -1,0 +1,7 @@
+It's not stated "in the navigation".
+
+The section active status is made clear by applying the "your-active-class" styling to the section itself which results in changing the background color.
+
+It is clearly stated in the rubric that highlighting the section in the navbar is an extra option for the project to stand out among the others but the reviewer clearly insists that it is a required feature, which is totally not indicated in the rubric.
+
+Please check the "Suggestion" screenshot attached in the project.
