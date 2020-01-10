@@ -4,4 +4,6 @@ The section active status is made clear by applying the "your-active-class" styl
 
 It is clearly stated in the rubric that highlighting the section in the navbar is an extra option for the project to stand out among the others but the reviewer clearly insists that it is a required feature, which is totally not indicated in the rubric.
 
+Both project mentors agreed to my opinion and said it's optional.
+
 Please check the "Suggestion" screenshot attached in the project.
